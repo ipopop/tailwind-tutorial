@@ -1,7 +1,7 @@
 dependencies:
   tailwindcss: 1.5.2
 devDependencies:
-  lodash: 4.17.19
+  lodash: 4.17.20
 lockfileVersion: 5.1
 packages:
   /@fullhuman/postcss-purgecss/2.3.0:
@@ -287,8 +287,13 @@ packages:
     resolution:
       integrity: sha1-JMS/zWsvuji/0FlNsRedjptlZWE=
   /lodash/4.17.19:
+    dev: false
     resolution:
       integrity: sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
+  /lodash/4.17.20:
+    dev: true
+    resolution:
+      integrity: sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
   /minimatch/3.0.4:
     dependencies:
       brace-expansion: 1.1.11
@@ -519,5 +524,5 @@ packages:
     resolution:
       integrity: sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 specifiers:
-  lodash: '>=4.17.19'
+  lodash: '>=4.17.20'
   tailwindcss: ^1.4.6

@@ -21,6 +21,6 @@
     "tailwindcss": "^1.4.6"
   },
   "devDependencies": {
-    "lodash": ">=4.17.19"
+    "lodash": ">=4.17.20"
   }
 }
