@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/tailwind-tutorial.git"
+    "url": "git+https://github.com/ipopop/tailwind-tutorial.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/tailwind-tutorial/issues"
+    "url": "https://github.com/ipopop/tailwind-tutorial.git/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/tailwind-tutorial#readme",
+  "homepage": "https://github.com/ipopop/tailwind-tutorial.git#readme",
   "dependencies": {
     "tailwindcss": "^1.4.6"
   }
