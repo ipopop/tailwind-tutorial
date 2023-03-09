@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ipopop/tailwind-tutorial.git#readme",
   "dependencies": {
-    "tailwindcss": "^2.1.2"
+    "tailwindcss": "^2.2.19"
   },
   "devDependencies": {
     "lodash": ">=4.17.21"
